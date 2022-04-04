@@ -1,3 +1,3 @@
 # ProjecteElGrande
 
-- The biggest last one - Codecool Project
+- `The biggest last one` - Codecool Project
